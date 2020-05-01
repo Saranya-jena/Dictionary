@@ -1,0 +1,496 @@
+laugh: Action taken as a result of happiness.
+voyage: The name given to round trips between countries or cities.
+travel: Go from one place to another.
+car: A vehicle used to drive from place to place.
+door: Is the item at the entrance of a building, room or house.
+location: A place where we have been or described.
+company: Place of work.
+sit: Not standing, staying in the place where it settled.
+cloth: Woven or felted fabric made from cotton or similar things.
+shoes: The clothes we wear on our feet when going out.
+mark: Symptom, sign.
+less: Missing than usual.
+contain: Include.
+catch: Capture an escaping person or animal.
+easy: Achieved without great effort.
+ocean: The water larger than sea.
+war: Armed action initiated by two opposing views.
+increase: Become or make greater in size or amount.
+chance: Possibility of something happening.
+letter: Written paper for communication.
+cold: Low temperature.
+floor: Ground.
+moon: The natural satellite of the earth.
+rose: A kind of flower with various colors.
+verb: Predicate.
+bite: Squeezing a substance between the teeth.
+part: It means that things leaves a whole.
+consonant: Not vowel letters in the alphabet.
+speak: Talking about something.
+tend: The tendency to love, to do or to want something.
+relation: The link between multiple things.
+good: Fine.
+create: To create something new by making use of the mind.
+triangle: Geometric shape formed by three line segments.
+old: Chemical element and precious metal.
+farmer: Who earns their living by cultivating the land.
+country: Place under the sovereignty of a state.
+football: A game played on the field with two teams and a ball.
+kind: The section that includes all individuals with common characteristics, where the sexes are seperated.
+goal: The desired result in something.
+calculate: To make the account.
+century: The time lived in.
+milk: A white beverage made from cow, sheep or goat.
+egg: A white food from chickens.
+year: Is the time when the earth turns around a round of the sun.
+cost: Require the payment before it can be done.
+call: Conversation by phone.
+like: Good and beautiful things.
+treatment: There are several ways to cure a disease.
+shape: Form, manner.
+first: Leading from others in terms of time, order and place.
+government: People with the authority to govern a country or state.
+correct: In accordance with fact or truth.
+telephone: A communication tool.
+factory: Buildings where goods are manufactured.
+run: Walk fast.
+change: Make different.
+true: Not lie, right and correct.
+fly: A feature that belongs to birds and an inanimate being.
+physical: Generally related to nature, organism.
+poor: Not rich.
+cotton: A white plant in a cocoon.
+fear: Worry.
+mountain: It refers to the height with protruding, high and inclined slopes of the earth’s crust.
+enter: Go into.
+close: Shut down, turn off.
+discover: It refers to things that are not learned about their existence, but which are learned later.
+think: Building mental abilities.
+message: Information to be conveyed.
+cut: Make an opening or wound with a sharp tool.
+left: West side of people facing North.
+fruit: Edible part of the trees.
+place: Current location.
+finger: Parts attached to the hands.
+world: The earth we live in.
+ring: Sound.
+right: Morally good- true or correct as a fact.
+school: An institution for educating children.
+idea: A suggestion or thought.
+best: Qualitively the most admirable level.
+repair: Fix something that is corrupt and outdated and make it work.
+face: The front part of the person’s head.
+can: Be able to.
+ice: Frozen water.
+promise: Say it will do it for sure.
+snore: Making strange noises while breathing during sleep.
+edge: The outside limit of an object, area or surface.
+observe: Notice something and register it as being significant.
+paint: Covering the surface of something.
+explain: To give information about a subject.
+minute: Time value of one- sixty of the hour.
+capital: Important cirt, the administrative center of the state.
+corner: A place where two sides meet.
+food: Things that enable us to feed to survive.
+never: At no time in the past or future.
+child: A young human being.
+fast: Quickly.
+train: Give information to students.
+nose: An organ on our face that helps us smell.
+money: Current exhange of coins.
+behind: Means not ahead.
+baby: The name given to individuals aged  years.
+farm: It is a large land that is cultivated on.
+refund: To give back the return of a received property.
+far: Requiring a long way to go.
+today: Before tomorrow, the day after yesterday.
+city: Town, place.
+exercise: It means training and practice.
+president: Being at the head of a community, organization or group means managing.
+fight: Take a part in a violent struggle.
+ask: To direct those who are curious about a subject.
+night: The time from sunset to dawn.
+height: Weighning more than normal in the scale.
+open: Allowing Access throught empty space not closed.
+wall: The partition that seperates the interior parts of the buildings.
+forest: A large area covered with trees.
+famous: Known about by many people.
+limit: The last limit that something can reach in terms of quantity.
+history: Telling about the events that took place in the past by giving the date and place.
+thin: Slender, fine.
+new: Discovered recently.
+room: Space that can be occupied.
+adjective: Defines the words characterized the name and it is the word used before the name.
+listen: Giving attention to the sound.
+experience: To gain skills about a job.
+experiment: Scientific verification.
+extra: Addition.
+plane: This word has two meanings. It refers to a flat and uneven area and also means a plane which is a means of transportation.
+list: A number of connected items or names written.
+fresh: Recently made.
+last: Remaining- continue for a specifired period of time.
+decrease: Reduce.
+clean: Not dirty.
+picture: A painting or drawing.
+law: Compulsory rules.
+large: Relatively great capacity or size.
+choose: Seperating the desired from many options.
+report: Article containing thoughts and determinations about a subject.
+language: The way people communicate to Express their feelings and thoughts.
+friend: A person with whom one has a bond of mutual affection.
+bright: Reflecting much light.
+every: One by one gives meaning.
+student: The name given to people who g oto school anda re trained by teachers.
+necessary: Wherewithal, necessity.
+cause: One job leads to another job.
+northern: Name given to the inhabitants of the North.
+assistant: In an effort; the person who helps the person doing the work.
+result: Another event caused by an event.
+church: Holy place of christians.
+known: Common, celebrated, kenned.
+guess: Based on reason and some data, intuition about an event or situation.
+rent: Giving one property to someone else for a certain price.
+level: Degree, grade.
+cast: Shep and spill.
+exciting: Alive and emotionalistic.
+quiet: Making little noise or no noise.
+natural: In nature, related to nature.
+big: Above avarage.
+mean: Explanations of concepts.
+difficult: Means not easy, made with trouble and difficulty.
+during: As long as it lasts.
+carefully: Exactingly.
+risk: To continue to the end despite the possible bad consequences of a job.
+exhibition: Show, introduce.
+break: Seperate into pieces as a result.
+again: Repeating a topic or situation periodically.
+play: It is an action used in conjunction with activities such as a sport, a computer game or dancing with music.
+dark: A place without light.
+umbrella: Tool used to protect from rain and sun.
+salary: Fee for a job done.
+lie: Being in a resting position intentionally false statement.
+father: A man had a child.
+gun: A tool used attack or defend.
+use: To benefit for a certain purpose.
+address: Where someone will be found when called.
+date: Number indicating the day of an event.
+second: Coming after the first in time or order sixtieth of a minute of time.
+education: Training in schools or elsewhere.
+resent: Getting angry with someone for a situation.
+dentist: The doctor we go to fort he health of our teeth.
+eye: Organs of sight.
+across: Standing directly against an individual or an object.
+find: Discover by chance or unexpectedly.
+follow: Go in a certain direction.
+branch: faculty, subject.
+illness: Disorder that occurs in the structure and functioning of the organism.
+leave: Go away from.
+ance: Move rhythmically to music.
+need: Requirement and demand.
+say: Utter words to convey information.
+unhealthy: Not in good health.
+region: Piece of land with boundaries specified.
+question: A sentence worded or expressed so as to elicit information.
+brother: A mano r boy in a relation to other sons and daughter of his parents.
+artist: Person who deals with fine arts.
+past: Gone by in time.
+accept: Acknowledge.
+option: To get the most attractive to us among one or more things.
+often: It means that it is constantly ongoing.
+finally: After a long time.
+lady: Ms.
+moment: A very brief period of time.
+delicious: Good taste of a food.
+box: A container with a flat base and sides.
+huge: Hover over something.
+design: Decorating a certain group of items, objects or subjects according to a certain order.
+object: Material can be seen or touch.
+advantage: Positive aspects of a situation or event.
+push: Exert force on somebody/ something to move them away.
+heavy: Means its weight is more than normal.
+east: The direction on the right hand of people facing North.
+equipment: Tools needed for a business or organization.
+trust: Do not doubt someone.
+wonderful: Very good, unique.
+swim: Propel the body through water using bodily movement.
+hour: A time period of sixty minutes, equal to twenty- four of a day’s duration.
+effect: A resul tor consequences of an action.
+know: 
+no: Refuse.
+read: To learn the content of a written text and what it says.
+fire: Ingite.
+family: A group of one or two parents and their kids.
+except: Which is outside of something.
+fun: Spend a joyful and pleasant time.
+birthday: The day the person was born.
+flower: The colored part of a plant carries its reproductive organs.
+but: But between two seperate sentences with contrast between the stated thoughts.
+exclaim: Shouting loud in the face of a terrible or surprising situation.
+yesterday: The day before today.
+hat: A kind of head-mounted accessory.
+garden: Where there are various flowers and plants.
+cry: Shed tears.
+wallet: An accessory in which things like Money and identity are placed.
+eat: Put the food in the mouth and chew and swallow it.
+course: Training place on various subjects.
+control: To check.
+bed: Articles used for sleeping.
+draw: Drawing a line, painting a thing.
+store: Great shops.
+accident: Bad event causing loss of life or property.
+cloud: A visible mass of condensed watery vapour floating.
+college: Name given to some school.
+abolish: Cancel, repeal or abrogate.
+arm: The section from the shoulder to the tip of the fingers.
+television: Device where sounds and images are detected.
+emergency: What needs to be done without losing time.
+discount: Sale on the price of a good.
+knowledge: Things learned or taught about a topic.
+depress: Not feeling well due to a bad event.
+yard: Garden.
+because: Used when describing the cause of an event or situation.
+help: Not being able to do one job alone and ask for support from someone else.
+ache: Bad situation felt after a coup.
+love: Connecting to someone or someone with love.
+join: Participate, attend, go in for.
+teenager: Not yet married, young.
+determine: To determine the specific features of a concept by explaining.
+shock: Experiencing an astonishing event.
+win: Ensuring a positive and good result.
+team: Group.
+stop: Ending the movement of an individual and thing in motion.
+taste: To perceive the taste of what we eat with mouth, one of five sense organs.
+island: It is called a piece of land surrounded by sea on all four sides.
+bird: A flying animal with wings and beak.
+apply: Validating a situation in something as it is.
+teacher: The person who teaches student to school.
+growth: Human develop in the period from birth to death.
+profit: Money earned by shopping affairs.
+each: Identified seperately.
+husband: A man married a woman.
+suggest: To recommend an opinion, wishing to be accepted.
+single: Who are not married yet.
+manage: The administer.
+great: A complete and wonderful job or situation.
+heart: The organ located in the thoracic cavity between the two lungs.
+fake: Something that is made by analogy with the original of something, is not real.
+burn: To ignite.
+reason: Cause.
+benefit: Conveniently useful.
+class: Room in which the lesson is taught.
+before: First.
+young: Who is out of childhood.
+vacation: Short break to work or school.
+social: Communal, societal.
+dress: Clothing made to wear.
+early: Happening or done before the expected time.
+full: Complete, whole, overall.
+description: Imagery and portrayal.
+bicycle: Two wheeled vehicle powered by the rear Wheel.
+end: Get through.
+direction: Line followed by a person or object.
+role: The task that falls on a person at work.
+smile: Forming into pleased.
+write: Putting thoughts on paper wtih letters.
+wife: It is called a woman that a man marries.
+product: Refers to substance derived from soil, plants, animals etc.
+rich: Not poor.
+explore: Trying to learn the unknown or hidden aspects of something.
+success: Means a job overcome.
+approve: Accepting a job as appropriate.
+sleepy: Couldn’t get sleep stil.
+ball: A round- shaped instrument for playing various games.
+delay: To transfer a job later.
+yes: Is the word of approval gşven in response to questions.
+tired: Being sluggish due to a certain or activity.
+disadvantage: Expresses the negative sides of a situation.
+traffic: All pedestrians and vehicles on the roads.
+glass: Drinking containers.
+married: The marriage of a woman and a man with a ceremony.
+chief: A leader of people.
+soft: Not solid and hard things.
+with: Conjunction reporting affiliation.
+silent: Not making any sound.
+method: Procedure, way.
+fable: Fairy tale.
+skill: To ability.
+current: Belonging to the present time.
+factors: Circumstance or fact that contributes to a result.
+crowd: Large number of people gathered together.
+ugly: Not beautiful.
+transport: It means that transfer.
+poem: The way emotions and thoughts Express witout being in the form of prose.
+climb: Go to a high place.
+relax: Feeling relieved.
+produce: Reproduce.
+wait: Give some time.
+center: Middle of a certain place.
+waiter: In some business serving customers.
+come: Move towards near to the speaker.
+home: The structure in which people live.
+difference: With a distinction between them.
+village: Small settlement.
+important: Great significance or value.
+employee: People working and producing in certain institutions.
+middle: The place that is equidistant between the two ends of something.
+dry: Without water, moisture.
+live: Remain alive- survive.
+competition: Race between people doing the same job.
+smell: Smell perceived by the nose, one of our five sense organs.
+boast: It is a state of seeing itself because of a prominent feature.
+stroke: Paralysis.
+move: Displacement event.
+example: What is taken to be similar.
+week: Called the period of seven days.
+mistake: Wrong or unintentional .
+blood: Vital fluid.
+miss: The desire to see something he/she likes or someone.
+happy: Feeling joy in the face of a pleasing situation.
+mind: Means the ability to think, absorb and understand.
+evening: The hours when the day ends and the night starts.
+include: Contains as parts of a whole.
+fall: Act of falling or collapsing.
+summer: One of the four seasons, the hosttest.
+enough: Sufficient, adequate.
+kill: To end someone’s life.
+copy: A thing made to be similar.
+sleep: Natural resting state.
+agenda: Highlight of the day.
+term: Word with a special meaning on a topic.
+stress: Anxiety about a troubled situation.
+provide: To perform a job by preparing the necessary conditions.
+mouth: The lower and upper lip part of a cavity.
+gender: Seperation of reproductive individuals as male and female.
+both: Refer to two people or things.
+name: A person, an animal, a plant, a place, an emotion and thought etc. the word that helps us recognize things.
+drive: Means driving vehicles such as cars.
+paper: Material that is for writing or drawing.
+light: Not dark.
+below: The part of something that is close to the ground.
+between: Is the situation between two things.
+hear: Sensing sounds with the senses tool.
+fine: High quality good.
+try: Testing an object or thought.
+wound: Wounding with a weapon or similar tool.
+hot: A substance is above its normal temperature.
+decide: To decide on a matter or a problem, to a conclusion.
+tall: Something is longer than normal.
+unemployment: Inability to find a job tol ive on.
+rate: The speed at which something changes and happens
+boy: Male child.
+problem: Trouble, issue.
+doctor: Profession for treating people who are sick.
+month: Each of the twelve named periods into year.
+enjoy: Indulge, take pleasure.
+appear: The eyes and mind first perceive when looking at something.
+same: Things that resemble the features.
+high: Which is the distance between the top and bottom.
+noun: Name.
+among: Being between two subjects or objects.
+game: Is fun for people to have a good time.
+apple: It is a kind of fruit that grows in the tree with red, green and yellow colors.
+sentence: Statement.
+describe: Identifying a particular situation, object or person.
+pay: Giving Money that is due for work done.
+possible: Possinle situation, not impossible.
+man: The breed that will fertilize the female of humans, animals or plants.
+square: A geometric shape whose four sides are equal.
+measure: Unit used to evaluate a quantity.
+plan: Organizing, planning about a situation or event.
+sister: A woman or girl in relation to toher daughters or sons of her parents.
+basketball: A kind of sport played by two teams and trying to circulate a ball belonging to the game.
+earth: The planet which we live.
+deal: To reach a common decision on a certain subject.
+plant: Growing a plant.
+map: It is a drawing a part of the earth on a plane by reducing it with a certain scale.
+plural: Anti singular. When talking about the multiplicity of an objecti it is a pluralization of a special addition to the word.
+industry: Industrial.
+certain: Able to firmly relied on to happen.
+little: Small size or amount.
+build: Integrate.
+member: Means joining a group or a team.
+damage: Do evil.
+send: Convey something to someone.
+dictionary: A book containing words and their meanings.
+form: Visible shape of something.
+later: Near future.
+board: Flat piece of wood or other hard material used for floors or buildings.
+detail: To consider the details of a whole.
+please: Asking someone to do something or to ask for want something.
+hope: It means hoping for a job.
+heat: The temperature of something high.
+answer: Responding to a situation or a question, responding to things that are curious.
+learn: Obtain information.
+page: Paper in a book.
+hunting: Catching animals in the forest.
+force: Strength as an attribute of physical action.
+dead: The end of a person’s life.
+begin: To take the first step for a job or an action.
+group: It is the community that holds more than  objects or people in the same place.
+equal: On a par with each other.
+berry: Fruits such as strawbeeries, cherries.
+compare: To reveal similar or different aspects of people or objects.
+street: Big road where small roads meet in the city.
+life: The time from birth to death.
+distance: There is a certain distance between the two things.
+information: Facts provided or learned about something.
+remember: Not forgetting something known.
+could: The third version of the word can.
+request: Want something politely.
+grass: Green areas, usually in gardens and parks.
+key: Tool for unlocking.
+feel: Sense.
+mother: Woman with a child.
+meet: To introduce themselves in the first meeting of two people.
+interest: Working on a subject means trying.
+practice: Is about action and practice, which is easy to appley.
+book: Written or printed pages glues together.
+record: Register.
+absurd: It is called nonsense.
+continue: Keep a situation going.
+prepare: To make use of something, to be used, to be applied.
+about: Using when talking about a topic or something.
+action: To be in certain action, movement and activity.
+deep: The area from the surface to the inside, the depth.
+table: Square board supported by feet, with various jobs.
+task: The action expected of a person himself.
+responsibility: The task that someone takes on, has to do.
+morning: The period between the night and noon.
+buy: Getting something for Money.
+beautiful: Perceived as pleasant in appearance.
+bee: An animal that produces honey.
+circle: Spherical.
+repeat: To do or say once more.
+develop: A situation getting better.
+matter: What is being talked about.
+complete: To remove the deficiency and bring it to the whole state.
+understand: Comprehend.
+girl: Female child.
+choke: Stay stuffy for any reason.
+hard: Not easy, troublesome.
+panic: Strong fear about a subject.
+rule: Law to obey.
+free: Not under the control.
+lost: Not being able to find a sought object. Striving to find.
+bad: Not good results and conditions.
+day: It is a  hour zone created by the rotation of the world around its own axis.
+target: Goal.
+case: Asserted thought.
+advice: Counsel, warning.
+common: Occuring or done often prevalent.
+want: To request something from someone.
+speed: Quickness, to go above a certain speed.
+race: Competition to see which is the fastest.
+visit: Go seeing a place or a person.
+feedback: Back indication, provide feedback.
+hair: The whole of hairs on our heads.
+toy: Tools for children to play.
+by way of.: Go into.
+melody: Pleasant sound.
+loud: It refers to the higher of the normal sound decibel.
+check: Examine something in order to determine its accuracy.
+lake: Small puddle.
+sometimes: Now and then.
+quickly: Rapidly, at a fast speed.
+cook: Prepare food.
+king: Head of state.
